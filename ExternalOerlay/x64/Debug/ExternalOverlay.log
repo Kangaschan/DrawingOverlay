@@ -1,0 +1,9 @@
+﻿  Paint.cpp
+  ExternalOverlay.cpp
+E:\5Sem\SP\ExternalOerlay\Paint.h(7,10): error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  (компиляция исходного файла "Paint.cpp")
+  
+E:\5Sem\SP\ExternalOerlay\Paint.h(7,10): error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  (компиляция исходного файла "ExternalOverlay.cpp")
+  
+  Создание кода...
